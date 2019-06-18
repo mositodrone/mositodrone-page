@@ -1,4 +1,4 @@
-
+ 
 body,
 html {
   width: 100%;
@@ -51,7 +51,6 @@ header.startup h1 {
   border-color: plum; }
 
 .btn-primary:hover {
-  position: center;
   background-color: #ee4b08;
   border-color: #ee4b08;
   border-width: 5px;
